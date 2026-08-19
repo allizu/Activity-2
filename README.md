@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/computer/computer-original.svg" width="90" alt="Computer Science">
+
 
 # COMPUTER SCIENCE
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="Computer-Science-Infographic.png" width="850" alt="Computer Science Infographic">
+
 
 <br><br>
 
