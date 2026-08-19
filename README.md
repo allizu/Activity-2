@@ -576,7 +576,7 @@ The goal is to make complex information **easy to understand without making it b
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Think+Beyond+the+Code.;Build+the+Future.;Solve+Real-World+Problems." alt="Footer animation">
+
 
 <br><br>
 
