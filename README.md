@@ -1,322 +1,244 @@
+# 💻 Computer Science
+
+### *More Than Just Coding.*
+
+<p align="center">
+  <img src="Computer-Science-Infographic.png" alt="Computer Science Infographic" width="800">
+</p>
+
+<p align="center">
+  <strong>Activity 2 — From Information to Visual Communication</strong>
+  <br>
+  <sub>A visual exploration of Computer Science, its core disciplines, skills, careers, and impact on society.</sub>
+</p>
+
+<br>
+
+<p align="center">
+
+![Computer Science](https://img.shields.io/badge/Field-Computer%20Science-6C63FF?style=for-the-badge)
+![Activity](https://img.shields.io/badge/Activity-02-4A90E2?style=for-the-badge)
+![Design](https://img.shields.io/badge/Designed%20With-Canva-00C4CC?style=for-the-badge)
+
+</p>
+
+---
+
+## ✦ Overview
+
+> **Computer Science is more than writing code.**
+
+It is a field built around **problem-solving, computation, data, systems, security, algorithms, and innovation**.
+
+This infographic presents Computer Science through a visual and accessible format, showing how the discipline extends beyond programming and contributes to the technologies people use every day.
+
+The design applies principles of **visual hierarchy, typography, color, spacing, iconography, and information organization** to transform technical information into an engaging visual experience.
+
+---
+
+# 🧠 What Does a Computer Scientist Actually Do?
+
+Computer Science involves much more than sitting in front of a code editor.
+
 <div align="center">
 
-<br>
+|            💻           |              🧩             |               🗄️               |                 🧠                |                🔐               |
+| :---------------------: | :-------------------------: | :-----------------------------: | :-------------------------------: | :-----------------------------: |
+|     **Programming**     |     **Problem Solving**     |      **Data & Algorithms**      |        **Systems Thinking**       |        **Cybersecurity**        |
+| Build digital solutions | Break down complex problems | Process information efficiently | Understand interconnected systems | Protect systems and information |
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/computer/computer-original.svg" width="80" alt="Computer Science">
+</div>
 
-# COMPUTER SCIENCE
+### 💻 Programming
 
-### `More Than Just Coding.`
+Writing code to create software, applications, websites, games, and other digital solutions.
 
-<br>
+### 🧩 Problem Solving
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Solve.;Think+Beyond+the+Code.;Build+the+Digital+World.;Computer+Science+%3E+Programming." alt="Animated typing">
+Analyzing complex problems, breaking them into manageable parts, and designing efficient solutions.
 
-<br><br>
+### 🗄️ Data & Algorithms
 
-<img src="Computer-Science-Infographic.png" width="800" alt="Computer Science Infographic">
+Working with information and developing algorithms that allow computers to process, organize, and analyze data.
 
-<br><br>
+### 🧠 Systems Thinking
 
-<img src="https://img.shields.io/badge/ACTIVITY-02-6C63FF?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-4A90E2?style=for-the-badge&logo=codefactor">
-<img src="https://img.shields.io/badge/DESIGN-CANVA-00C4CC?style=for-the-badge&logo=canva">
+Understanding how different components interact — from individual devices to networks, servers, and cloud infrastructure.
+
+### 🔐 Cybersecurity
+
+Protecting systems, networks, applications, and information from digital threats.
+
+---
+
+# 🔬 Core Areas
+
+Computer Science is a broad discipline with many interconnected fields.
+
+```text
+                    COMPUTER SCIENCE
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+   SOFTWARE            SYSTEMS             DATA & AI
+  DEVELOPMENT          & NETWORKS
+        │                  │                  │
+   Applications       Hardware           Data Science
+   Web Systems        Networks            Machine Learning
+   Software           Cloud              Artificial Intelligence
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+                    THEORY & ALGORITHMS
+                           │
+                     COMPUTATION
+```
+
+### 🧑‍💻 Software Development
+
+Designing, developing, testing, and maintaining software and applications.
+
+### 🖥️ Computer Systems
+
+Understanding the hardware and software components that allow computers to operate.
+
+### 🤖 Data Science & Artificial Intelligence
+
+Using data, statistics, and computational techniques to discover insights and build intelligent systems.
+
+### 🌐 Networks
+
+Connecting computers and devices so they can communicate and exchange information.
+
+### 📐 Theory & Algorithms
+
+Exploring the mathematical and logical foundations behind computation and efficient problem-solving.
+
+---
+
+# 🚀 Where Can Computer Science Take You?
+
+A Computer Science degree can open doors across technology, business, finance, healthcare, entertainment, education, cybersecurity, and many other industries.
+
+### Career Paths
+
+| Career                        | What They Do                               |
+| ----------------------------- | ------------------------------------------ |
+| 💻 **Software Engineer**      | Builds and maintains software systems      |
+| 📊 **Data Scientist**         | Analyzes data to discover useful insights  |
+| ☁️ **Cloud Engineer**         | Designs and manages cloud infrastructure   |
+| 🛡️ **Cybersecurity Analyst** | Protects systems from digital threats      |
+| 🎮 **Game Developer**         | Creates interactive games and experiences  |
+| 🧠 **AI/ML Specialist**       | Develops intelligent computational systems |
+| 🌐 **Web Developer**          | Builds websites and web applications       |
+
+> **And that's only the beginning.**
+
+The flexibility of Computer Science allows graduates to explore different roles as technology and industries continue to evolve.
+
+---
+
+# 🌎 Computer Science × Society
+
+Technology has become deeply integrated into everyday life.
+
+Computer Science helps shape how people:
+
+**💬 Communicate**
+Social platforms, messaging applications, and digital communication.
+
+**📚 Learn**
+Online classrooms, educational software, digital libraries, and learning platforms.
+
+**💼 Work**
+Remote collaboration, automation, productivity tools, and information systems.
+
+**🌐 Access Information**
+Search engines, databases, websites, and digital services.
+
+**🏦 Conduct Business**
+Online banking, e-commerce, payment systems, and enterprise software.
+
+**🔐 Protect Information**
+Encryption, authentication, cybersecurity, and privacy technologies.
+
+**🧮 Solve Problems**
+Algorithms and computational systems used to address problems at scales that would be difficult to handle manually.
+
+### The Bigger Picture
+
+Computer Science isn't simply about making computers work.
+
+It is about **using computation to create solutions that change how people live, work, communicate, and interact with the world.**
+
+---
+
+# 🎨 Design System
+
+The infographic uses a modern **technology-inspired visual language** designed to make technical information approachable and engaging.
+
+### Visual Language
+
+| Element                    | Purpose                                          |
+| -------------------------- | ------------------------------------------------ |
+| 🟣 **Purple & Blue**       | Establishes a modern digital identity            |
+| 💻 **Computer Graphics**   | Represents computing and software                |
+| 🔐 **Security Icons**      | Communicates cybersecurity and protection        |
+| 🧠 **Brain Icon**          | Represents intelligence and problem-solving      |
+| 💡 **Lightbulb**           | Represents ideas, creativity, and innovation     |
+| 📊 **Structured Sections** | Improves readability and information flow        |
+| 🔤 **Bold Typography**     | Creates hierarchy and emphasizes key information |
+
+---
+
+# 📐 Project Specifications
+
+<div align="center">
+
+| Specification      | Details                                  |
+| :----------------- | :--------------------------------------- |
+| 📌 **Activity**    | Activity 2                               |
+| 📖 **Title**       | From Information to Visual Communication |
+| 💻 **Topic**       | Computer Science                         |
+| 🎨 **Design Tool** | Canva                                    |
+| 📏 **Dimensions**  | 1080 × 1350 px                           |
+| 🖼️ **Output**     | Professional Infographic                 |
+| 📁 **Repository**  | Activity 2                               |
 
 </div>
 
 ---
 
-## `SYSTEM.STATUS`
+# 📂 Repository
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   SYSTEM       COMPUTER SCIENCE                          │
-│   STATUS       ● ONLINE                                  │
-│                                                          │
-│   CORE         COMPUTATION                               │
-│   PURPOSE      SOLVE PROBLEMS                            │
-│   OUTPUT       INNOVATION                                │
-│   DOMAIN       DIGITAL WORLD                             │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-Computer Science is not just about writing code.
-
-It is about understanding problems, designing solutions, processing information,
-building systems, protecting data, and creating technology that changes the world.
-
-01 — CORE SKILLS
-<table> <tr><td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50">
-Programming
-Writing code to build software, applications, websites, and digital solutions.
-
-</td><td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algorithm/algorithm-original.svg" width="50">
-Problem Solving
-Breaking complex problems into smaller, manageable steps.
-
-</td><td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50">
-Data & Algorithms
-Processing information and creating efficient computational solutions.
-
-</td><td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50">
-Systems Thinking
-Understanding how devices, networks, servers, and infrastructure interact.
-
-</td><td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="50">
-Cybersecurity
-Protecting systems, networks, applications, and information.
-
-</td></tr> </table>
-02 — HOW COMPUTER SCIENCE WORKS
-<div align="center">
-text
-                         ┌──────────────────┐
-                         │ COMPUTER SCIENCE │
-                         └────────┬─────────┘
-                                  │
-                 ┌────────────────┼────────────────┐
-                 │                │                │
-                 ▼                ▼                ▼
-          ┌────────────┐   ┌────────────┐   ┌────────────┐
-          │    CODE    │   │    DATA    │   │   SYSTEMS  │
-          └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
-                │                │                │
-                └────────────────┼────────────────┘
-                                 ▼
-                       ┌──────────────────┐
-                       │    ALGORITHMS    │
-                       └────────┬─────────┘
-                                ▼
-                       ┌──────────────────┐
-                       │     SOLUTIONS    │
-                       └────────┬─────────┘
-                                ▼
-                       ┌──────────────────┐
-                       │     SOCIETY      │
-                       └──────────────────┘
-</div>
-03 — CORE AREAS
-<table> <tr><td width="50%"><h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28"> Software Development </h3>
-Designing, developing, testing, and maintaining software, websites, and applications.
-
-</td><td width="50%"><h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28"> Computer Systems </h3>
-Understanding hardware, operating systems, architecture, and infrastructure.
-
-</td></tr><tr><td><h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28"> Data Science & AI </h3>
-Using data, statistics, machine learning, and computational techniques to develop intelligent systems.
-
-</td><td><h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="28"> Networks </h3>
-Connecting computers, devices, servers, and systems so they can communicate.
-
-</td></tr><tr><td colspan="2" align="center"><h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="28"> Theory & Algorithms </h3>
-The mathematical, logical, and computational foundations behind Computer Science.
-
-</td></tr> </table>
-04 — CAREER.EXE
-bash
-$ ./career.exe
-
-Initializing Computer Science career paths...
-[████████████████████████████████] 100%
-
-SYSTEM: READY
-
-Available career paths:
-<table> <tr> <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45">
-Software Engineer
-
-</td><td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45">
-Data Scientist
-
-</td><td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55">
-Cloud Engineer
-
-</td><td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45">
-Cybersecurity Analyst
-
-</td> </tr><tr><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45">
-Game Developer
-
-</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45">
-AI / ML Specialist
-
-</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
-Web Developer
-
-</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="45">
-And Many More
-
-</td></tr> </table>
-05 — COMPUTER SCIENCE × SOCIETY
-<div align="center"><table> <tr><td align="center"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40">
-COMMUNICATE
-</td><td align="center"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="40">
-LEARN
-</td><td align="center"><img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="40">
-WORK
-</td><td align="center"><img src="https://cdn.simpleicons.org/google/4285F4" width="40">
-INFORMATION
-</td><td align="center"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40">
-BUSINESS
-</td><td align="center"><img src="https://cdn.simpleicons.org/letsencrypt/003A70" width="40">
-SECURITY
-</td></tr> </table></div>
-Computer Science influences nearly every part of modern digital life.
-
-Communication
-Digital messaging, social platforms, video calls, and online collaboration.
-
-Education
-Online classrooms, digital libraries, educational software, and learning platforms.
-
-Work
-Automation, productivity systems, remote collaboration, and enterprise technology.
-
-Business
-Digital banking, e-commerce, payment systems, and information systems.
-
-Security
-Encryption, authentication, privacy, and cybersecurity.
-
-Information
-Search engines, databases, websites, cloud storage, and digital services.
-
-06 — DESIGN.SYSTEM
-yaml
-design:
-  style: "Modern Technology"
-  mood:
-    - "Clean"
-    - "Digital"
-    - "Professional"
-    - "Futuristic"
-
-  palette:
-    primary: "Purple"
-    secondary: "Blue"
-    accent: "Cyan"
-
-  principles:
-    - "Visual hierarchy"
-    - "Consistency"
-    - "Whitespace"
-    - "Readable typography"
-    - "Information grouping"
-    - "Visual balance"
-<table> <tr><td align="center">
-PRIMARY
-<img src="https://dummyimage.com/120x40/6c63ff/ffffff.png&text=PURPLE" width="120">
-Innovation
-
-</td><td align="center">
-SECONDARY
-<img src="https://dummyimage.com/120x40/4a90e2/ffffff.png&text=BLUE" width="120">
-Technology
-
-</td><td align="center">
-ACCENT
-<img src="https://dummyimage.com/120x40/00c4cc/ffffff.png&text=CYAN" width="120">
-Digital
-
-</td></tr> </table>
-07 — PROJECT.CONFIG
-yaml
-project:
-  activity: "Activity 2"
-  title: "From Information to Visual Communication"
-
-topic:
-  subject: "Computer Science"
-  concept: "More Than Just Coding"
-
-design:
-  tool: "Canva"
-  canvas: "1080 × 1350 px"
-  output: "Professional Infographic"
-
-repository:
-  readme: "README.md"
-  image: "Computer-Science-Infographic.png"
-08 — FILE STRUCTURE
-text
 Activity 2/
 │
-├── README.md
+├── 📄 README.md
 │
-└── Computer-Science-Infographic.png
-09 — THE BIG IDEA
-<div align="center">
-COMPUTER SCIENCE ≠ JUST PROGRAMMING
+└── 🖼️ Computer-Science-Infographic.png
+```
 
-text
-             ┌───────────────┐
-             │     CODE      │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   PROBLEMS    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │     DATA      │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    SYSTEMS    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   SECURITY    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   INNOVATION  │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌────────────────────┐
-             │  REAL-WORLD IMPACT │
-             └────────────────────┘
+---
 
-THINK. BUILD. SOLVE. INNOVATE.
-Computer Science is more than just coding.
+# 🎯 Learning Objective
 
-</div>
-10 — ACTIVITY OBJECTIVE
-This activity demonstrates how technical information can be transformed into clear, organized, and visually engaging communication.
+This activity demonstrates how technical information can be transformed into **clear, organized, and visually engaging communication**.
 
-Rather than presenting Computer Science as simply a programming discipline, the infographic communicates its broader role in:
+Rather than presenting Computer Science as simply *"learning how to code,"* the infographic communicates the broader picture:
 
-text
-COMPUTATION
-     +
-PROBLEM SOLVING
-     +
-DATA
-     +
-SYSTEMS
-     +
-SECURITY
-     +
-INNOVATION
-     ↓
-DIGITAL SOCIETY
-The goal is to make complex information easy to understand without making it boring.
+> **Computer Science is a discipline of computation, problem-solving, systems, information, and innovation.**
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/computer/computer-original.svg" width="45">
-COMPUTER SCIENCE
-More Than Just Coding.
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=6C63FF&center=true&vCenter=true&width=450&lines=Think+Beyond+the+Code.;Build+the+Future.;Solve+Real-World+Problems." alt="Footer animation">
+<p align="center">
 
+### 💻 Think. Build. Solve. Innovate.
 
+**Computer Science is more than just coding.**
 
-<sub>Activity 02 • From Information to Visual Communication</sub>
+</p>
 
-</div> ```
+<p align="center">
+  <sub>Activity 2 • From Information to Visual Communication</sub>
+</p>
