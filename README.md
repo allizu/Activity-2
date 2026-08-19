@@ -3,7 +3,11 @@
 ### *More Than Just Coding.*
 
 <p align="center">
-  <img src="Computer-Science-Infographic.png" alt="Computer Science Infographic" width="800">
+  <img
+    src="https://images.unsplash.com/photo-1518770660439-4636190af475"
+    alt="Computer Science"
+    width="800"
+  >
 </p>
 
 <p align="center">
