@@ -1,140 +1,244 @@
-# Activity-2
+# 💻 Computer Science
 
-# 💻 COMPUTER SCIENCE
-### *More Than Just Coding*
+### *More Than Just Coding.*
 
-> **Activity 2 — From Information to Visual Communication**
+<p align="center">
+  <img src="Computer-Science-Infographic.png" alt="Computer Science Infographic" width="800">
+</p>
 
-A professional infographic that presents **Computer Science as more than just programming**, highlighting its core areas, skills, career opportunities, and relevance in today's digital society.
+<p align="center">
+  <strong>Activity 2 — From Information to Visual Communication</strong>
+  <br>
+  <sub>A visual exploration of Computer Science, its core disciplines, skills, careers, and impact on society.</sub>
+</p>
+
+<br>
+
+<p align="center">
+
+![Computer Science](https://img.shields.io/badge/Field-Computer%20Science-6C63FF?style=for-the-badge)
+![Activity](https://img.shields.io/badge/Activity-02-4A90E2?style=for-the-badge)
+![Design](https://img.shields.io/badge/Designed%20With-Canva-00C4CC?style=for-the-badge)
+
+</p>
 
 ---
 
-## 📌 About the Project
+## ✦ Overview
 
-This project was created as part of **Activity 2: From Information to Visual Communication**.
+> **Computer Science is more than writing code.**
 
-The infographic aims to communicate information about **Computer Science** through a clear and visually engaging design. It uses visual hierarchy, typography, icons, color, spacing, and structured sections to make technical concepts easier to understand.
+It is a field built around **problem-solving, computation, data, systems, security, algorithms, and innovation**.
 
-The main message of the infographic is simple:
+This infographic presents Computer Science through a visual and accessible format, showing how the discipline extends beyond programming and contributes to the technologies people use every day.
 
-> **Computer Science is more than just coding.**
-
-It involves programming, problem-solving, data and algorithms, systems thinking, cybersecurity, and many other areas that contribute to the development of modern technology.
+The design applies principles of **visual hierarchy, typography, color, spacing, iconography, and information organization** to transform technical information into an engaging visual experience.
 
 ---
 
-## 🧠 What Do Computer Science Students Do?
+# 🧠 What Does a Computer Scientist Actually Do?
 
-The infographic highlights five major skills and areas:
+Computer Science involves much more than sitting in front of a code editor.
+
+<div align="center">
+
+|            💻           |              🧩             |               🗄️               |                 🧠                |                🔐               |
+| :---------------------: | :-------------------------: | :-----------------------------: | :-------------------------------: | :-----------------------------: |
+|     **Programming**     |     **Problem Solving**     |      **Data & Algorithms**      |        **Systems Thinking**       |        **Cybersecurity**        |
+| Build digital solutions | Break down complex problems | Process information efficiently | Understand interconnected systems | Protect systems and information |
+
+</div>
 
 ### 💻 Programming
-Writing code to build software, applications, websites, and other digital solutions.
+
+Writing code to create software, applications, websites, games, and other digital solutions.
 
 ### 🧩 Problem Solving
-Breaking down complex problems and designing efficient solutions.
+
+Analyzing complex problems, breaking them into manageable parts, and designing efficient solutions.
 
 ### 🗄️ Data & Algorithms
-Working with data and creating algorithms to process information effectively.
+
+Working with information and developing algorithms that allow computers to process, organize, and analyze data.
 
 ### 🧠 Systems Thinking
-Understanding how different systems work together, from individual devices to cloud infrastructure.
+
+Understanding how different components interact — from individual devices to networks, servers, and cloud infrastructure.
 
 ### 🔐 Cybersecurity
-Protecting information and building secure systems in an increasingly digital world.
+
+Protecting systems, networks, applications, and information from digital threats.
 
 ---
 
-## 🔬 Core Areas of Computer Science
+# 🔬 Core Areas
 
-Computer Science covers a wide range of disciplines, including:
+Computer Science is a broad discipline with many interconnected fields.
 
-- **Software Development** — Designing and building applications and software.
-- **Computer Systems** — Understanding hardware and how computer systems work.
-- **Data Science & AI** — Turning data into insights and developing intelligent systems.
-- **Networks** — Connecting devices and enabling communication.
-- **Theory & Algorithms** — Understanding the logic, computation, and principles behind Computer Science.
+```text
+                    COMPUTER SCIENCE
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+   SOFTWARE            SYSTEMS             DATA & AI
+  DEVELOPMENT          & NETWORKS
+        │                  │                  │
+   Applications       Hardware           Data Science
+   Web Systems        Networks            Machine Learning
+   Software           Cloud              Artificial Intelligence
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+                    THEORY & ALGORITHMS
+                           │
+                     COMPUTATION
+```
 
----
+### 🧑‍💻 Software Development
 
-## 🚀 Why Study Computer Science?
+Designing, developing, testing, and maintaining software and applications.
 
-Computer Science offers opportunities to:
+### 🖥️ Computer Systems
 
-- Pursue a high-demand and future-oriented career
-- Work in different industries
-- Create solutions through technology
-- Develop innovative ideas
-- Solve real-world problems
+Understanding the hardware and software components that allow computers to operate.
 
-The field can lead to careers such as:
+### 🤖 Data Science & Artificial Intelligence
 
-- 💻 Software Engineer
-- 📊 Data Scientist
-- ☁️ Cloud Engineer
-- 🛡️ Cybersecurity Analyst
-- 🎮 Game Developer
-- 🧠 AI and Machine Learning Specialist
-- 🌐 Web Developer
-- And many more
+Using data, statistics, and computational techniques to discover insights and build intelligent systems.
 
----
+### 🌐 Networks
 
-## 🌎 Impact on Society
+Connecting computers and devices so they can communicate and exchange information.
 
-Computer Science plays an important role in modern society.
+### 📐 Theory & Algorithms
 
-Technology has transformed the way people:
-
-- Communicate
-- Learn
-- Work
-- Access information
-- Conduct business
-- Store and process data
-- Protect digital information
-- Solve complex problems
-
-As technology continues to develop, Computer Science remains an important field for creating solutions and improving the way people interact with the digital world.
+Exploring the mathematical and logical foundations behind computation and efficient problem-solving.
 
 ---
 
-## 🎨 Design Concept
+# 🚀 Where Can Computer Science Take You?
 
-The infographic follows a **modern technology-inspired aesthetic** that reflects the digital nature of Computer Science.
+A Computer Science degree can open doors across technology, business, finance, healthcare, entertainment, education, cybersecurity, and many other industries.
 
-### Design Elements
+### Career Paths
 
-| Element | Purpose |
-|---|---|
-| 💜 Purple & Blue | Creates a modern and technological visual identity |
-| 💻 Computer Graphics | Represents computing and software development |
-| 🔐 Cybersecurity Icons | Represents digital security and protection |
-| 🧠 Brain Icon | Represents intelligence and problem-solving |
-| 💡 Lightbulb | Represents ideas, innovation, and creativity |
-| 📊 Structured Sections | Makes information easier to read and understand |
-| 🔤 Bold Typography | Establishes clear visual hierarchy |
+| Career                        | What They Do                               |
+| ----------------------------- | ------------------------------------------ |
+| 💻 **Software Engineer**      | Builds and maintains software systems      |
+| 📊 **Data Scientist**         | Analyzes data to discover useful insights  |
+| ☁️ **Cloud Engineer**         | Designs and manages cloud infrastructure   |
+| 🛡️ **Cybersecurity Analyst** | Protects systems from digital threats      |
+| 🎮 **Game Developer**         | Creates interactive games and experiences  |
+| 🧠 **AI/ML Specialist**       | Develops intelligent computational systems |
+| 🌐 **Web Developer**          | Builds websites and web applications       |
 
----
+> **And that's only the beginning.**
 
-## 📐 Technical Specifications
-
-| Specification | Details |
-|---|---|
-| **Activity** | Activity 2 |
-| **Title** | From Information to Visual Communication |
-| **Topic** | Computer Science |
-| **Design Tool** | Canva |
-| **Dimensions** | 1080 × 1350 px |
-| **Output** | Professional Infographic |
-| **Repository** | Activity 2 |
+The flexibility of Computer Science allows graduates to explore different roles as technology and industries continue to evolve.
 
 ---
 
-## 📁 Repository Structure
+# 🌎 Computer Science × Society
+
+Technology has become deeply integrated into everyday life.
+
+Computer Science helps shape how people:
+
+**💬 Communicate**
+Social platforms, messaging applications, and digital communication.
+
+**📚 Learn**
+Online classrooms, educational software, digital libraries, and learning platforms.
+
+**💼 Work**
+Remote collaboration, automation, productivity tools, and information systems.
+
+**🌐 Access Information**
+Search engines, databases, websites, and digital services.
+
+**🏦 Conduct Business**
+Online banking, e-commerce, payment systems, and enterprise software.
+
+**🔐 Protect Information**
+Encryption, authentication, cybersecurity, and privacy technologies.
+
+**🧮 Solve Problems**
+Algorithms and computational systems used to address problems at scales that would be difficult to handle manually.
+
+### The Bigger Picture
+
+Computer Science isn't simply about making computers work.
+
+It is about **using computation to create solutions that change how people live, work, communicate, and interact with the world.**
+
+---
+
+# 🎨 Design System
+
+The infographic uses a modern **technology-inspired visual language** designed to make technical information approachable and engaging.
+
+### Visual Language
+
+| Element                    | Purpose                                          |
+| -------------------------- | ------------------------------------------------ |
+| 🟣 **Purple & Blue**       | Establishes a modern digital identity            |
+| 💻 **Computer Graphics**   | Represents computing and software                |
+| 🔐 **Security Icons**      | Communicates cybersecurity and protection        |
+| 🧠 **Brain Icon**          | Represents intelligence and problem-solving      |
+| 💡 **Lightbulb**           | Represents ideas, creativity, and innovation     |
+| 📊 **Structured Sections** | Improves readability and information flow        |
+| 🔤 **Bold Typography**     | Creates hierarchy and emphasizes key information |
+
+---
+
+# 📐 Project Specifications
+
+<div align="center">
+
+| Specification      | Details                                  |
+| :----------------- | :--------------------------------------- |
+| 📌 **Activity**    | Activity 2                               |
+| 📖 **Title**       | From Information to Visual Communication |
+| 💻 **Topic**       | Computer Science                         |
+| 🎨 **Design Tool** | Canva                                    |
+| 📏 **Dimensions**  | 1080 × 1350 px                           |
+| 🖼️ **Output**     | Professional Infographic                 |
+| 📁 **Repository**  | Activity 2                               |
+
+</div>
+
+---
+
+# 📂 Repository
 
 ```text
 Activity 2/
 │
-├── README.md
+├── 📄 README.md
 │
-└── Computer-Science-Infographic.png
+└── 🖼️ Computer-Science-Infographic.png
+```
+
+---
+
+# 🎯 Learning Objective
+
+This activity demonstrates how technical information can be transformed into **clear, organized, and visually engaging communication**.
+
+Rather than presenting Computer Science as simply *"learning how to code,"* the infographic communicates the broader picture:
+
+> **Computer Science is a discipline of computation, problem-solving, systems, information, and innovation.**
+
+---
+
+<p align="center">
+
+### 💻 Think. Build. Solve. Innovate.
+
+**Computer Science is more than just coding.**
+
+</p>
+
+<p align="center">
+  <sub>Activity 2 • From Information to Visual Communication</sub>
+</p>
