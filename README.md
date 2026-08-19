@@ -6,7 +6,7 @@
 
 # COMPUTER SCIENCE
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/desktop/desktop-original.svg" width="72" alt="Computer Science">
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/computer.svg" width="72" alt="Computer Science">
 
 ### `More Than Just Coding.`
 
@@ -570,7 +570,7 @@ The goal is to make complex information **easy to understand without making it b
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/desktop/desktop-original.svg" width="48" alt="Computer Science">
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/computer.svg" width="48" alt="Computer Science">
 
 # `COMPUTER SCIENCE`
 
