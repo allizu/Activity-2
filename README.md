@@ -6,6 +6,8 @@
 
 # COMPUTER SCIENCE
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/desktop/desktop-original.svg" width="72" alt="Computer Science">
+
 ### `More Than Just Coding.`
 
 <br>
@@ -76,7 +78,7 @@ Breaking complex problems into smaller, manageable steps.
 
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55">
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mysql/mysql-original.svg" width="48" alt="Data">
 
 ### Data & Algorithms
 
@@ -568,7 +570,7 @@ The goal is to make complex information **easy to understand without making it b
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/computer/computer-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/desktop/desktop-original.svg" width="48" alt="Computer Science">
 
 # `COMPUTER SCIENCE`
 
