@@ -3,14 +3,6 @@
 ### *More Than Just Coding.*
 
 <p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1518770660439-4636190af475"
-    alt="Computer Science"
-    width="800"
-  >
-</p>
-
-<p align="center">
   <strong>Activity 2 — From Information to Visual Communication</strong>
   <br>
   <sub>A visual exploration of Computer Science, its core disciplines, skills, careers, and impact on society.</sub>
