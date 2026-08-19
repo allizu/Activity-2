@@ -32,7 +32,7 @@ The design applies principles of **visual hierarchy, typography, color, spacing,
 
 ---
 
-# 🧠 What Does a Computer Scientist Actually Do?
+#What Does a Computer Scientist Actually Do?
 
 Computer Science involves much more than sitting in front of a code editor.
 
@@ -45,23 +45,23 @@ Computer Science involves much more than sitting in front of a code editor.
 
 </div>
 
-### 💻 Programming
+###Programming
 
 Writing code to create software, applications, websites, games, and other digital solutions.
 
-### 🧩 Problem Solving
+###Problem Solving
 
 Analyzing complex problems, breaking them into manageable parts, and designing efficient solutions.
 
-### 🗄️ Data & Algorithms
+###Data & Algorithms
 
 Working with information and developing algorithms that allow computers to process, organize, and analyze data.
 
-### 🧠 Systems Thinking
+###Systems Thinking
 
 Understanding how different components interact — from individual devices to networks, servers, and cloud infrastructure.
 
-### 🔐 Cybersecurity
+###Cybersecurity
 
 Protecting systems, networks, applications, and information from digital threats.
 
@@ -90,29 +90,29 @@ Computer Science is a broad discipline with many interconnected fields.
                      COMPUTATION
 ```
 
-### 🧑‍💻 Software Development
+###Software Development
 
 Designing, developing, testing, and maintaining software and applications.
 
-### 🖥️ Computer Systems
+###Computer Systems
 
 Understanding the hardware and software components that allow computers to operate.
 
-### 🤖 Data Science & Artificial Intelligence
+###Data Science & Artificial Intelligence
 
 Using data, statistics, and computational techniques to discover insights and build intelligent systems.
 
-### 🌐 Networks
+###Networks
 
 Connecting computers and devices so they can communicate and exchange information.
 
-### 📐 Theory & Algorithms
+###Theory & Algorithms
 
 Exploring the mathematical and logical foundations behind computation and efficient problem-solving.
 
 ---
 
-# 🚀 Where Can Computer Science Take You?
+#Where Can Computer Science Take You?
 
 A Computer Science degree can open doors across technology, business, finance, healthcare, entertainment, education, cybersecurity, and many other industries.
 
@@ -120,13 +120,13 @@ A Computer Science degree can open doors across technology, business, finance, h
 
 | Career                        | What They Do                               |
 | ----------------------------- | ------------------------------------------ |
-| 💻 **Software Engineer**      | Builds and maintains software systems      |
-| 📊 **Data Scientist**         | Analyzes data to discover useful insights  |
-| ☁️ **Cloud Engineer**         | Designs and manages cloud infrastructure   |
-| 🛡️ **Cybersecurity Analyst** | Protects systems from digital threats      |
-| 🎮 **Game Developer**         | Creates interactive games and experiences  |
-| 🧠 **AI/ML Specialist**       | Develops intelligent computational systems |
-| 🌐 **Web Developer**          | Builds websites and web applications       |
+| **Software Engineer**      | Builds and maintains software systems      |
+| **Data Scientist**         | Analyzes data to discover useful insights  |
+| **Cloud Engineer**         | Designs and manages cloud infrastructure   |
+| **Cybersecurity Analyst** | Protects systems from digital threats      |
+| **Game Developer**         | Creates interactive games and experiences  |
+| **AI/ML Specialist**       | Develops intelligent computational systems |
+| **Web Developer**          | Builds websites and web applications       |
 
 > **And that's only the beginning.**
 
@@ -134,31 +134,31 @@ The flexibility of Computer Science allows graduates to explore different roles 
 
 ---
 
-# 🌎 Computer Science × Society
+#Computer Science × Society
 
 Technology has become deeply integrated into everyday life.
 
 Computer Science helps shape how people:
 
-**💬 Communicate**
+**Communicate**
 Social platforms, messaging applications, and digital communication.
 
-**📚 Learn**
+**Learn**
 Online classrooms, educational software, digital libraries, and learning platforms.
 
-**💼 Work**
+**Work**
 Remote collaboration, automation, productivity tools, and information systems.
 
-**🌐 Access Information**
+**Access Information**
 Search engines, databases, websites, and digital services.
 
-**🏦 Conduct Business**
+**Conduct Business**
 Online banking, e-commerce, payment systems, and enterprise software.
 
-**🔐 Protect Information**
+**Protect Information**
 Encryption, authentication, cybersecurity, and privacy technologies.
 
-**🧮 Solve Problems**
+**Solve Problems**
 Algorithms and computational systems used to address problems at scales that would be difficult to handle manually.
 
 ### The Bigger Picture
@@ -169,7 +169,7 @@ It is about **using computation to create solutions that change how people live,
 
 ---
 
-# 🎨 Design System
+#Design System
 
 The infographic uses a modern **technology-inspired visual language** designed to make technical information approachable and engaging.
 
@@ -177,35 +177,35 @@ The infographic uses a modern **technology-inspired visual language** designed t
 
 | Element                    | Purpose                                          |
 | -------------------------- | ------------------------------------------------ |
-| 🟣 **Purple & Blue**       | Establishes a modern digital identity            |
-| 💻 **Computer Graphics**   | Represents computing and software                |
-| 🔐 **Security Icons**      | Communicates cybersecurity and protection        |
-| 🧠 **Brain Icon**          | Represents intelligence and problem-solving      |
-| 💡 **Lightbulb**           | Represents ideas, creativity, and innovation     |
-| 📊 **Structured Sections** | Improves readability and information flow        |
-| 🔤 **Bold Typography**     | Creates hierarchy and emphasizes key information |
+| **Purple & Blue**       | Establishes a modern digital identity            |
+| **Computer Graphics**   | Represents computing and software                |
+| **Security Icons**      | Communicates cybersecurity and protection        |
+| **Brain Icon**          | Represents intelligence and problem-solving      |
+| **Lightbulb**           | Represents ideas, creativity, and innovation     |
+| **Structured Sections** | Improves readability and information flow        |
+| **Bold Typography**     | Creates hierarchy and emphasizes key information |
 
 ---
 
-# 📐 Project Specifications
+#Project Specifications
 
 <div align="center">
 
 | Specification      | Details                                  |
 | :----------------- | :--------------------------------------- |
-| 📌 **Activity**    | Activity 2                               |
-| 📖 **Title**       | From Information to Visual Communication |
-| 💻 **Topic**       | Computer Science                         |
-| 🎨 **Design Tool** | Canva                                    |
-| 📏 **Dimensions**  | 1080 × 1350 px                           |
-| 🖼️ **Output**     | Professional Infographic                 |
-| 📁 **Repository**  | Activity 2                               |
+| **Activity**    | Activity 2                               |
+| **Title**       | From Information to Visual Communication |
+| **Topic**       | Computer Science                         |
+| **Design Tool** | Canva                                    |
+| **Dimensions**  | 1080 × 1350 px                           |
+| **Output**     | Professional Infographic                 |
+| **Repository**  | Activity 2                               |
 
 </div>
 
 ---
 
-# 📂 Repository
+#Repository
 
 ```text
 Activity 2/
@@ -217,7 +217,7 @@ Activity 2/
 
 ---
 
-# 🎯 Learning Objective
+#Learning Objective
 
 This activity demonstrates how technical information can be transformed into **clear, organized, and visually engaging communication**.
 
@@ -229,7 +229,7 @@ Rather than presenting Computer Science as simply *"learning how to code,"* the 
 
 <p align="center">
 
-### 💻 Think. Build. Solve. Innovate.
+###Think. Build. Solve. Innovate.
 
 **Computer Science is more than just coding.**
 
