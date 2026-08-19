@@ -68,7 +68,7 @@ Writing code to build software, applications, websites, and digital solutions.
 
 <td align="center" width="20%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algorithm/algorithm-original.svg" width="55">
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/diagram-project.svg" width="55" alt="Algorithms">
 
 ### Problem Solving
 
